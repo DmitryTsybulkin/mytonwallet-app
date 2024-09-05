@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">MyTonWallet</string>
+    <string name="add_wallet_sub_title">Securely store and send crypto.</string>
+    <string name="add_wallet_create_btn">Create New Wallet</string>
+    <string name="add_wallet_import_btn">Import Existing Wallet</string>
+
+    <string name="passcode_lock_title">Unlock to use wallet</string>
+    <string name="passcode_lock_subtitle">Enter passcode or use fingerprint</string>
+
+    <string name="wallet_created_title">Wallet created</string>
+    <string name="wallet_created_subtitle">Create a passcode to protect it.</string>
+    <string name="wallet_created_btn">Set Up Passcode</string>
+
+    <string name="set_passcode_title">Set passcode</string>
+    <string name="set_passcode_subtitle">Enter the %1$s digits in the passcode.</string>
+    <string name="set_passcode_4_btn">Use 4-Digit Passcode</string>
+    <string name="set_passcode_6_btn">Use 6-Digit Passcode</string>
+
+    <string name="confirm_passcode_title">Confirm passcode</string>
+    <string name="confirm_passcode_subtitle">Re-enter the %1$s digits in the passcode.</string>
+
+    <string name="biometric_title">Use Biometrics?</string>
+    <string name="biometric_subtitle">MyTonWallet uses biometric authentication to unlock and authorize transactions.</string>
+    <string name="biometric_enable_btn">Enable</string>
+    <string name="biometric_skip_btn">Skip</string>
+
+    <string name="recovery_phrase_title">Your recovery phrase</string>
+    <string name="recovery_phrase_subtitle">Write down these 24 words in this exact order and keep them in a secure place. Do not share this list with anyone.</string>
+    <string name="recovery_phrase_btn">Done</string>
+
+    <string name="test_title">Let’s test</string>
+    <string name="test_subtitle">Let’s check that you wrote it down correctly. Please enter the words <b>4</b>, <b>12</b> and <b>19</b>.</string>
+    <string name="test_btn">Continue</string>
+    <string name="test_dialog_title">Wrong words</string>
+    <string name="test_dialog_subtitle">The secret words you have entered don’t match your recovery phrase.</string>
+    <string name="test_dialog_primary_btn">Try again</string>
+    <string name="test_dialog_secondary_btn">Show phrase</string>
+
+    <string name="import_wallet_title">Import wallet</string>
+    <string name="import_wallet_subtitle">You can restore access to your wallet by entering the <b>24 secret words</b> that you wrote down when creating the wallet.</string>
+    <string name="import_wallet_dialog_title">Wrong phrase</string>
+    <string name="import_wallet_dialog_subtitle">Looks like you entered an invalid mnemonic phrase.</string>
+    <string name="import_wallet_dialog_btn">Close</string>
+
+    <string name="wallet_add_btn">Add</string>
+    <string name="wallet_send_btn">Send</string>
+    <string name="wallet_earn_btn">Earn</string>
+    <string name="wallet_swap_btn">Swap</string>
+    <string name="wallet_empty_subtitle">You have no transactions in this wallet yet.</string>
+
+    <string name="tab_wallet">Wallet</string>
+    <string name="tab_assets">Assets</string>
+    <string name="tab_browser">Browser</string>
+    <string name="tab_settings">Settings</string>
+
+    <string name="transaction_sent">Sent</string>
+    <string name="transaction_received">Received</string>
+    <string name="transaction_swapped">Swapped</string>
+    <string name="transaction_swapped_at">Swapped at</string>
+    <string name="transaction_swapped_price">Price per 1 %1$s</string>
+    <string name="transaction_swapped_sent">Sent</string>
+    <string name="transaction_swapped_received">Received</string>
+    <string name="transaction_sent_nft">Sent NFT</string>
+    <string name="transaction_received_nft">Received NFT</string>
+    <string name="transaction_details">Transaction Details</string>
+    <string name="transaction_received_at">Received at</string>
+    <string name="transaction_sent_at">Sent at</string>
+    <string name="transaction_from">From</string>
+    <string name="transaction_to">To</string>
+    <string name="transaction_amount">Amount</string>
+    <string name="transaction_fee">Fee</string>
+    <string name="transaction_explorer">View in Explorer</string>
+    <string name="transaction_msg_encrypted">Message is encrypted.</string>
+    <string name="transaction_msg_decrypt_btn">Decrypt</string>
+
+    <string name="send_title">Send</string>
+    <string name="send_subtitle_currency">Choose currency</string>
+    <string name="send_search_placeholder">Enter address or domain</string>
+    <string name="send_subtitle_recent">Recent</string>
+    <string name="send_subtitle_balance">%1$s Balance</string>
+    <string name="send_continue_btn">Continue</string>
+    <string name="send_max_btn">MAX</string>
+
+    <string name="send_msg">Message</string>
+    <string name="send_msg_placeholder">Add a comment, if needed</string>
+    <string name="send_msg_encrypt">Encrypt comment</string>
+    <string name="send_details">Details</string>
+    <string name="send_recipient">Recipient</string>
+    <string name="send_recipient_address">Recipient address</string>
+    <string name="send_btn">Confirm and Send</string>
+    <string name="send_passcode_confirm_title">Confirm</string>
+    <string name="send_passcode_amount">Send %1$s</string>
+    <string name="send_subtitle_sent">Coins have been sent to %1$s</string>
+    <string name="send_done_btn">Done</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
