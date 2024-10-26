@@ -2,5 +2,6 @@
 
 Build with jetpack compose, [ton-kotlin library](https://github.com/ton-community/ton-kotlin) for interaction with TON, lottie for animations
 
-[ImportWallet](ImportWallet.mp4)
-[CreateWallet](CreateWallet.mp4)
+![ImportWallet (1).gif](ImportWallet.gif)
+
+![NewWallet.gif](NewWallet.gif)
